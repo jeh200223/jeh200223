@@ -4,7 +4,6 @@
 <table style="text-align:center"> 
   <tr>
     <td> <img width="363.63em" height="200em" src="https://github-readme-stats.vercel.app/api?username=jeh200223&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" /> <br> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeh200223&layout=compact&hide_border=true&theme=dark&hide=c,c%2B%2B" /> </td>
-    <td><img height="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jeh200223&theme=dark&hide_border=true"/> </td>
   </tr>
 </table>
  
