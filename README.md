@@ -12,9 +12,9 @@
 
 대학교에 재학하면서 어떤게 나와 맞을지 고민하며 공부하는 주니어 개발자입니다.
 
-주 전공은 현재 파이썬으로 생각중입니다.
+주 전공은 현재 자바입니다.
 
-부 전공으로는 어떤걸 만들든 항상 따라오던 웹(html,css,php)과 앱(android,flutter)입니다. 
+부 전공으로는 파이썬과 어떤걸 만들든 항상 따라오던 웹(html,css,php)과 앱(android,flutter)입니다. 
   
 # 소속 중
 - [![Build Status](https://img.shields.io/badge/web-ctrls.studio-black)](https://ctrls-studio.com)
