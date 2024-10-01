@@ -10,11 +10,13 @@
   
 [![N|Solid](https://img.shields.io/badge/Android-eeeeee?style=flat-square&logo=Android&logoColor=#DDC84)](https://nodesource.com/products/nsolid)                                                                                                      [![N|Solid](https://img.shields.io/badge/AndroidStudio-eeeeee?style=flat-square&logo=AndroidStudio&logoColor=3DDC84)](https://nodesource.com/products/nsolid)                                                                                        [![N|Solid](https://img.shields.io/badge/JAVA-eeeeee?style=flat-square&logo=JAVA&logoColor=007396)](https://nodesource.com/products/nsolid)                                                                                                       [![N|Solid](https://img.shields.io/badge/HTML-eeeeee?style=flat-square&logo=HTML5&logoColor=E34F26)](https://nodesource.com/products/nsolid)                                                                                                                                                                                                           [![N|Solid](https://img.shields.io/badge/PHP-eeeeee?style=flat-square&logo=PHP&logoColor=777BB4)](https://nodesource.com/products/nsolid)                                                                                                      [![N|Solid](https://img.shields.io/badge/PHPMyAdmin-eeeeee?style=flat-square&logo=PHPMyAdmin&logoColor=6C78AF)](https://nodesource.com/products/nsolid)                                                                                                [![N|Solid](https://img.shields.io/badge/Arduino-eeeeee?style=flat-square&logo=Arduino&logoColor=0979D)](https://nodesource.com/products/nsolid)              
 
-대학교에 재학하면서 어떤게 나와 맞을지 고민하며 공부하는 주니어 개발자입니다.
+대학교를 졸업하고 나무같은 앱 개발자가 되고싶은 새싹같은 주니어 개발자입니다.
 
 주 전공은 현재 플러터입니다.
 
 부 전공으로는 자바와 어떤걸 만들든 항상 따라오던 웹(html,css,php)과 앱(android)입니다. 
+
+현재는 멋쟁이 사자처럼 안드로이드 앱스쿨 3기를 수강하며 학습하고 있습니다
   
 # 소속 중
 - [![Build Status](https://img.shields.io/badge/web-ctrls.studio-black)](https://ctrls-studio.com)
