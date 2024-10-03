@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&text=Welcome&fontAlignY=35&animation=fadeIn&desc=jeh's%20GitHub%20Profile&descAlignY=60)
-## _경험을 쌓아가고 있는 개발자_
+<h1 align="center">경험을 쌓아가고 있는 개발자</h1>
   
 <table style="text-align:center"> 
   <tr>
@@ -7,9 +7,22 @@
   </tr>
 </table>
  
-  
-[![N|Solid](https://img.shields.io/badge/AndroidStudio-eeeeee?style=flat-square&logo=AndroidStudio&logoColor=3DDC84)](https://nodesource.com/products/nsolid)  [![N|Solid](https://img.shields.io/badge/flutter-eeeeee?style=flat-square&logo=flutter&logoColor=02569B)](https://nodesource.com/products/nsolid) [![N|Solid](https://img.shields.io/badge/Kotlin-eeeeee?style=flat-square&logo=Kotlin&logoColor=7F52FF)](https://nodesource.com/products/nsolid)  [![N|Solid](https://img.shields.io/badge/java-eeeeee?style=flat-square&logo=OpenJDK&logoColor=007396)](https://nodesource.com/products/nsolid)                                                                                                         [![N|Solid](https://img.shields.io/badge/HTML-eeeeee?style=flat-square&logo=HTML5&logoColor=E34F26)](https://nodesource.com/products/nsolid)   [![N|Solid](https://img.shields.io/badge/PHP-eeeeee?style=flat-square&logo=PHP&logoColor=777BB4)](https://nodesource.com/products/nsolid)                                                                                                                                                                                                                    
+<h1 align="center">Stacks</h1>
 
+  <p align="center">
+    <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  </p>
+                                                                                                                                                                     
+  
 대학교를 졸업하고 나무같은 앱 개발자가 되고싶은 새싹같은 주니어 개발자입니다.
 
 주 스킬은 플러터와 코틀린, 자바입니다.
