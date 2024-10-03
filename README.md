@@ -1,4 +1,13 @@
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&text=Welcome&fontAlignY=35&animation=fadeIn&desc=jeh's%20GitHub%20Profile&descAlignY=60)
+<div align = center>
+ 
+#### Blog & Email
+  
+  [![Blog Badge](https://img.shields.io/badge/-예사로운-bcbcbc?logo=WindowsTerminal&logoColor=white&link=https://yesaroun.tistory.com/)](https://yesaroun.tistory.com/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:jeh200223@gmail.com)](mailto:jeh200223@gmail.com)
+  
+</div>
+ 
 <h1 align="center">경험을 쌓아가고 있는 개발자</h1>
   
 <table style="text-align:center"> 
