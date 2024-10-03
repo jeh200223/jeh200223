@@ -3,7 +3,7 @@
  
 #### Blog & Email
   
-  [![Blog Badge](https://img.shields.io/badge/-예사로운-bcbcbc?logo=WindowsTerminal&logoColor=white&link=https://yesaroun.tistory.com/)](https://yesaroun.tistory.com/)
+  [![Blog Badge](https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white&link=https://pond-green-da2.notion.site/fde07c81cf6847cf9cbfc6a0b795197d)](pond-green-da2.notion.site/fde07c81cf6847cf9cbfc6a0b795197d)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:jeh200223@gmail.com)](mailto:jeh200223@gmail.com)
   
 </div>
@@ -39,8 +39,9 @@
 부 스킬로는 웹에관한 php와 html입니다. 
 
 현재는 멋쟁이 사자처럼 안드로이드 앱스쿨 3기를 수강하며 학습하고 있습니다
-  
-# 소속 중
+
+<h1 align="center">팀 활동</h1>  
+ 
 - [![Build Status](https://img.shields.io/badge/web-ctrls.studio-black)](https://ctrls-studio.com)
 
 대학교에서 마음맞는 친구들끼리 모여서 만든 개발 팀! ctrls studio 지금 방문하여 컨텐츠를 확인하세요!
