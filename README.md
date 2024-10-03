@@ -3,7 +3,7 @@
  
 #### Blog & Email
   
-  [![Blog Badge](https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white&link=https://pond-green-da2.notion.site/fde07c81cf6847cf9cbfc6a0b795197d)](pond-green-da2.notion.site/fde07c81cf6847cf9cbfc6a0b795197d)
+  [![Blog Badge](https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white&link=https://pond-green-da2.notion.site/fde07c81cf6847cf9cbfc6a0b795197d/)](pond-green-da2.notion.site/fde07c81cf6847cf9cbfc6a0b795197d/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:jeh200223@gmail.com)](mailto:jeh200223@gmail.com)
   
 </div>
