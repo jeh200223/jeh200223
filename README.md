@@ -38,6 +38,8 @@ Play Store 배포 경험 · 팀 프로젝트 리딩 경험
 - Firebase Firestore
 - Git (Feature Branch 전략)
 
+🔗 GitHub: https://github.com/AOS3/FinalProject-CarryOn-Anywhere
+
 🔗 Play Store: [(캐리온)](https://play.google.com/store/apps/details?id=com.lion.FinalProject_CarryOn_Anywhere)
 
 ---
